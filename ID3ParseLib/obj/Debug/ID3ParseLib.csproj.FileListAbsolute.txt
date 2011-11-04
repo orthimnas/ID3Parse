@@ -1,0 +1,5 @@
+C:\Users\petersonj\Dropbox\2011 Fall\Prog Lang\HW\C#\ID3Parse\ID3ParseLib\bin\Debug\ID3ParseLib.dll
+C:\Users\petersonj\Dropbox\2011 Fall\Prog Lang\HW\C#\ID3Parse\ID3ParseLib\bin\Debug\ID3ParseLib.pdb
+C:\Users\petersonj\Dropbox\2011 Fall\Prog Lang\HW\C#\ID3Parse\ID3ParseLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\petersonj\Dropbox\2011 Fall\Prog Lang\HW\C#\ID3Parse\ID3ParseLib\obj\Debug\ID3ParseLib.dll
+C:\Users\petersonj\Dropbox\2011 Fall\Prog Lang\HW\C#\ID3Parse\ID3ParseLib\obj\Debug\ID3ParseLib.pdb

@@ -1,0 +1,9 @@
+C:\Users\petersonj\Dropbox\2011 Fall\Prog Lang\HW\C#\ID3Parse\ID3ParseConsole\bin\Debug\ID3ParseConsole.exe
+C:\Users\petersonj\Dropbox\2011 Fall\Prog Lang\HW\C#\ID3Parse\ID3ParseConsole\bin\Debug\ID3ParseConsole.pdb
+C:\Users\petersonj\Dropbox\2011 Fall\Prog Lang\HW\C#\ID3Parse\ID3ParseConsole\bin\Debug\ID3ParseLib.dll
+C:\Users\petersonj\Dropbox\2011 Fall\Prog Lang\HW\C#\ID3Parse\ID3ParseConsole\bin\Debug\ID3ParseLib.pdb
+C:\Users\petersonj\Dropbox\2011 Fall\Prog Lang\HW\C#\ID3Parse\ID3ParseConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\petersonj\Dropbox\2011 Fall\Prog Lang\HW\C#\ID3Parse\ID3ParseConsole\obj\x86\Debug\ID3ParseConsole.exe
+C:\Users\petersonj\Dropbox\2011 Fall\Prog Lang\HW\C#\ID3Parse\ID3ParseConsole\obj\x86\Debug\ID3ParseConsole.pdb
+D:\Dropbox\C#\ID3Parse\ID3ParseConsole\obj\x86\Debug\ID3ParseConsole.exe
+D:\Dropbox\C#\ID3Parse\ID3ParseConsole\obj\x86\Debug\ID3ParseConsole.pdb
